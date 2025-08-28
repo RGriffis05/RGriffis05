@@ -5,7 +5,7 @@ I am a third-year **Computer Science major** at Wright State University.
 I have experience with **Java** and am expanding my skills by learning new languages and technologies.  
 
 ### 📌 Projects This Semester  
-- **Learning Python (Personal Project):** I plan to study the fundamentals of Python on my own, focusing on building a strong foundation in syntax, problem-solving, and scripting.  
+- **Learning Python (Personal Project):** I plan to study the basics of Python on my own, my plan is to be able to code simple projects in Python by the end of the semester.  
 - **LC-3 Assembly (Course Project):** As part of my Computer Organization class, I will be working with LC-3 assembly language to better understand how programs run at the machine level.  
 
 ---
